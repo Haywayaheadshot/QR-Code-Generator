@@ -21,7 +21,7 @@
   padding: 0 5vw;
   padding-top: 2vh;
   padding-bottom: 5vh;
-  max-width: 80vw;
+  max-width: 20rem;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
@@ -32,7 +32,7 @@
 }
 
 .qr-image {
-  max-width: 80vw;
+  max-width: 20rem;
   border-radius: 20px;
 }
 
@@ -54,14 +54,14 @@
 
 @media (min-width: 760px) {
   .body {
-    padding-top: 15vh;
+    padding-top: 20vh;
   }
 
   .qr-generator {
     padding: 0 1vw;
     padding-top: 2vh;
     padding-bottom: 5vh;
-    max-width: 18vw;
+    max-width: 20rem;
   }
 
   .qr-image {
